@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="mt-8 pt-8 border-t border-gray-800 text-center">
-        <p class="description text-gray-400">&copy; {{ new Date().getFullYear() }} Illumia. Todos os direitos reservados.</p>
+        <p class="description text-gray-400">&copy; {{ new Date().getFullYear() }} Illumia. Todos los derechos reservados.</p>
       </div>
     </div>
   </footer>
