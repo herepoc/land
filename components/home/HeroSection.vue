@@ -18,7 +18,7 @@
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="text-center">
-          <h3 class="text-3xl font-bold mb-2">+1000</h3>
+          <h3 class="text-3xl font-bold mb-2">+7000</h3>
           <p class="text-lg opacity-90">Clientes Atendidos</p>
         </div>
         <div class="text-center">
