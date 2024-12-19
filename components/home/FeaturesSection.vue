@@ -19,7 +19,7 @@
             </ul>
           </div>
           <div class="flex justify-center">
-            <img src="/images/features/automation.svg" alt="Automatización IA" class="w-full max-w-xs" />
+            <img src="/images/features/inteligencia.png" alt="Automatización IA" class="w-full max-w-xs" />
           </div>
         </div>
 
@@ -38,7 +38,7 @@
             </ul>
           </div>
           <div class="flex justify-center md:order-1">
-            <img src="/images/features/self-service.svg" alt="Autoservicio" class="w-full max-w-xs" />
+            <img src="/images/features/omnichanel.png" alt="Autoservicio" class="w-full max-w-xs" />
           </div>
         </div>
 
@@ -57,7 +57,7 @@
             </ul>
           </div>
           <div class="flex justify-center">
-            <img src="/images/features/personalization.svg" alt="Personalización" class="w-full max-w-xs" />
+            <img src="/images/features/customer-care.png" alt="Personalización" class="w-full max-w-xs" />
           </div>
         </div>
       </div>
