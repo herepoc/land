@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/land/', // Atualizando para o caminho correto
+    // baseURL: '/land/', // Atualizando para o caminho correto
     head: {
       title: 'Illumia - Where empathy meets AI',
       meta: [
@@ -24,7 +24,7 @@ export default defineNuxtConfig({
         {
           hid: 'og:image',
           property: 'og:image',
-          content: '/images/illumia-share.jpg'
+          content: '/images/features/automation.png'
         }
       ],
       link: [
