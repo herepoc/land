@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Avenir Black';
+  src: url('/fonts/Avenir.ttc');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Avenir Medium';
+  src: url('/fonts/Avenir.ttc');
+  font-weight: 500;
+}
+
+/* Classes utilitárias para títulos */
+.title {
+  font-family: 'Avenir Black';
+  text-transform: capitalize;
+}
+
+/* Classes utilitárias para descrições */
+.description {
+  font-family: 'Avenir Medium';
+}
+
+/* Classes utilitárias para botões e links */
+.button-text {
+  font-family: 'Avenir Black';
+  text-transform: uppercase;
+}
