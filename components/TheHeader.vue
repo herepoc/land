@@ -36,10 +36,10 @@
 
       <!-- Menu Desktop -->
       <nav class="hidden lg:flex gap-8">
-        <NuxtLink to="/#sobre" class="text-white font-medium hover:text-blue-500 transition-colors">Sobre Nós</NuxtLink>
+        <NuxtLink to="/#sobre" class="text-white font-medium hover:text-blue-500 transition-colors">Sobre Nosotros</NuxtLink>
         <NuxtLink to="/#funcionalidades" class="text-white font-medium hover:text-blue-500 transition-colors">Funcionalidades</NuxtLink>
-        <NuxtLink to="/#depoimentos" class="text-white font-medium hover:text-blue-500 transition-colors">Depoimentos</NuxtLink>
-        <NuxtLink to="/#contato" class="text-white font-medium hover:text-blue-500 transition-colors">Contato</NuxtLink>
+        <NuxtLink to="/#depoimentos" class="text-white font-medium hover:text-blue-500 transition-colors">Testimonios</NuxtLink>
+        <NuxtLink to="/#contato" class="text-white font-medium hover:text-blue-500 transition-colors">Contacto</NuxtLink>
       </nav>
     </div>
 
@@ -69,10 +69,10 @@ import { ref } from 'vue'
 const isMenuOpen = ref(false)
 
 const links = [
-  { to: '/#sobre', text: 'Sobre Nós' },
+  { to: '/#sobre', text: 'Sobre Nosotros' },
   { to: '/#funcionalidades', text: 'Funcionalidades' },
-  { to: '/#depoimentos', text: 'Depoimentos' },
-  { to: '/#contato', text: 'Contato' }
+  { to: '/#depoimentos', text: 'Testimonios' },
+  { to: '/#contato', text: 'Contacto' }
 ]
 </script>
 
