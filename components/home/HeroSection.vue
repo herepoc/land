@@ -6,7 +6,7 @@
       class="absolute inset-0 w-full h-full object-cover opacity-20"
     />
     <div class="container mx-auto px-4 max-w-4xl relative z-10">
-      <h1 class="text-5xl title mb-4">Onde empatia encontra IA</h1>
+      <h1 class="text-5xl .hero-title mb-4">Onde empatia encontra IA</h1>
       <p class="text-2xl description mb-8 opacity-90">Transforme seu serviço com soluções inteligentes e humanizadas</p>
       <div class="flex justify-center gap-4 mb-16">
         <button class="bg-illumia-white text-illumia-primary px-8 py-3 rounded-lg button-text hover:shadow-lg transition-all">

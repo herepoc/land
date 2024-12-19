@@ -16,6 +16,10 @@
   text-transform: capitalize;
 }
 
+.hero-title {
+  font-family: 'Avenir Black';
+}
+
 /* Classes utilitárias para descrições */
 .description {
   font-family: 'Avenir Medium';

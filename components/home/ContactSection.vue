@@ -35,12 +35,6 @@
               <p class="description text-gray-600">contato@illumia.ai</p>
             </div>
           </div>
-          
-          <div class="flex space-x-4">
-            <a href="#" class="button-text text-gray-600 hover:text-illumia-primary transition-colors">LINKEDIN</a>
-            <a href="#" class="button-text text-gray-600 hover:text-illumia-primary transition-colors">INSTAGRAM</a>
-            <a href="#" class="button-text text-gray-600 hover:text-illumia-primary transition-colors">TWITTER</a>
-          </div>
         </div>
         
         <form class="space-y-6">
