@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="flex justify-center md:justify-start">
-          <img src="/images/lumia-logo-footer.png" alt="Illumia Logo" class="h-12" />
+          <img src="/images/illumia-logo.png" alt="Illumia Logo" class="h-12" />
         </div>
         <div class="flex flex-col items-center md:items-end space-y-4">
           <div class="flex flex-wrap justify-center md:justify-end gap-4">
