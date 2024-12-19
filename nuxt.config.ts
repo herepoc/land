@@ -1,5 +1,6 @@
 export default defineNuxtConfig({
   app: {
+    baseURL: '/land/', // Atualizando para o caminho correto
     head: {
       title: 'Illumia - Where empathy meets AI',
       meta: [
@@ -50,5 +51,11 @@ export default defineNuxtConfig({
     viewer: true,
   },
 
-  compatibilityDate: '2024-12-18'
+  compatibilityDate: '2024-12-18',
+  ssr: false, // Desabilitando SSR para GitHub Pages
+  router: {
+    options: {
+      strict: false
+    }
+  }
 })
