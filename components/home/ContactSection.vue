@@ -1,7 +1,7 @@
 <template>
   <section id="contato" class="py-20">
     <div class="container mx-auto px-4">
-      <h2 class="text-4xl title text-center mb-4">Contáctenos</h2>
+      <h2 class="text-4xl title text-center mb-4 hero-title">Contáctenos</h2>
       <p class="text-xl description text-gray-600 text-center mb-16">Estamos listos para transformar su atención al cliente</p>
       
       <div class="grid md:grid-cols-2 gap-12">

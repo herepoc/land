@@ -1,32 +1,44 @@
 @font-face {
   font-family: 'Avenir Black';
-  src: url('/fonts/Avenir.ttc');
+  src: local('Avenir Black'),
+       url('/fonts/Avenir.ttc') format('truetype');
   font-weight: 900;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Avenir Medium';
-  src: url('/fonts/Avenir.ttc');
+  src: local('Avenir Medium'),
+       url('/fonts/Avenir.ttc') format('truetype');
   font-weight: 500;
+  font-style: normal;
 }
 
 /* Classes utilitárias para títulos */
 .title {
-  font-family: 'Avenir Black';
+  font-family: 'Avenir Medium';
   text-transform: capitalize;
+  font-weight: 900;
+}
+
+.texto {
+  font-family: 'Avenir Medium';
 }
 
 .hero-title {
-  font-family: 'Avenir Black';
+  font-family: 'Avenir Medium';
+  font-weight: 900;
 }
 
 /* Classes utilitárias para descrições */
 .description {
   font-family: 'Avenir Medium';
+  font-weight: 500;
 }
 
 /* Classes utilitárias para botões e links */
 .button-text {
   font-family: 'Avenir Black';
   text-transform: uppercase;
+  font-weight: 900;
 }
